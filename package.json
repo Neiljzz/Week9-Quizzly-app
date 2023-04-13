@@ -1,0 +1,14 @@
+{
+  "name": "quizzly-app",
+  "version": "1.0.0",
+  "description": "An express Quiz Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Jia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
